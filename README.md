@@ -1,7 +1,7 @@
-# 📊 Product Portfolio Analytics (Retail Transactions)
+#  Product Portfolio Analytics (Retail Transactions)
 ---
 
-## 📌 Overview
+##  Overview
 
 This project analyzes retail transaction data to understand product performance, revenue distribution, and portfolio structure.
 
@@ -9,7 +9,7 @@ The focus is on identifying high-value products, revenue concentration patterns,
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset includes transaction-level retail data with the following fields:
 
@@ -24,7 +24,7 @@ The dataset includes transaction-level retail data with the following fields:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Identify top-performing products and categories  
 - Understand revenue distribution across products  
@@ -34,7 +34,7 @@ The dataset includes transaction-level retail data with the following fields:
 
 ---
 
-## 📊 1. Product Performance Analysis
+##  1. Product Performance Analysis
 
 Products were evaluated based on total revenue and units sold.
 
@@ -44,37 +44,37 @@ Key findings:
 
 ---
 
-## ⚖️ 2. Product Segmentation (Revenue vs Volume)
+##  2. Product Segmentation (Revenue vs Volume)
 
 Products were segmented into four quadrants:
 
-### 💎 Premium Products (High Revenue, Low Volume)
+###  Premium Products (High Revenue, Low Volume)
 - Ergonomic Mesh Chair  
 - Noise Cancelling Headphones  
 - 27-inch 4K Monitor  
 
-### ⭐ Star Products (High Revenue, High Volume)
+###  Star Products (High Revenue, High Volume)
 - Standing Desk Converter  
 - Wireless Mechanical Keyboard  
 
-### 📦 Volume Drivers (Low Revenue, High Volume)
+###  Volume Drivers (Low Revenue, High Volume)
 - Adjustable Monitor Arm  
 - Webcam 1080p HD  
 - A4 Printer Paper  
 
-### ⚠️ Underperformers (Low Revenue, Low Volume)
+###  Underperformers (Low Revenue, Low Volume)
 - Executive Ballpoint Pen Box  
 - USB-C Docking Station  
 
 ---
 
-## 📈 Quadrant Visualization
+## Quadrant Visualization
 
 ![Quadrant Analysis](charts/Quadrant_Analysis.png)
 
 ---
 
-## 📉 3. Pareto Analysis (80/20 Rule)
+##  3. Pareto Analysis (80/20 Rule)
 
 A Pareto analysis was conducted to measure revenue concentration across products.
 
@@ -90,13 +90,13 @@ This indicates a strong dependency on a limited number of high-performing SKUs.
 
 ---
 
-## 📊 Pareto Visualization
+##  Pareto Visualization
 
 ![Pareto Analysis](charts/Pareto_Analysis.png)
 
 ---
 
-## 🗂️ 4. Product Category Treemap
+## 4. Product Category Treemap
 
 A treemap visualization was used to analyze category-level revenue distribution.
 
@@ -107,13 +107,13 @@ A treemap visualization was used to analyze category-level revenue distribution.
 
 ---
 
-## 🌳 Category Treemap Visualization
+##  Category Treemap Visualization
 
 ![Category Treemap](charts/category_tree.png)
 
 ---
 
-## 📊 Key Takeaways
+##  Key Takeaways
 
 - Revenue follows a strong Pareto distribution (80/20 rule)  
 - Products can be clearly grouped into strategic business roles  
@@ -122,7 +122,7 @@ A treemap visualization was used to analyze category-level revenue distribution.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python  
 - Pandas  
@@ -132,7 +132,7 @@ A treemap visualization was used to analyze category-level revenue distribution.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 .
